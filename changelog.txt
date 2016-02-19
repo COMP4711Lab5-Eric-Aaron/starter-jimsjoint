@@ -1,0 +1,1 @@
+1. Created changelog.txt and modified readme.rst
