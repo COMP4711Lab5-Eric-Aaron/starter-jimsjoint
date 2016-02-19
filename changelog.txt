@@ -1,3 +1,4 @@
 1. Created changelog.txt and modified readme.rst
 2. Feature 1 Configuration.
 3. Feature 2 Homepage.
+4. Completed Feature 3: Handle A New Order.
