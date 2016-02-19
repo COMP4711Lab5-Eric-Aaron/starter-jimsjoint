@@ -5,3 +5,4 @@
 5. Done feature 4. Got orders showing.
 6. Fixed the order additions handling. Feature 5.
 7. Fixed feature 6 = handle checkout.
+8. Done feature 8. Got order cancel and order commit.
