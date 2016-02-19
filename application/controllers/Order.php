@@ -17,7 +17,7 @@ class Order extends Application {
 
     // start a new order
     function neworder() {
-        //FIXME
+        $order_num = $this->orders->highest() + 1;
 
         redirect('/order/display_menu/' . $order_num);
     }

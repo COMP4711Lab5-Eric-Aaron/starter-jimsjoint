@@ -1,2 +1,3 @@
 1. Created changelog.txt and modified readme.rst
 2. Feature 1 Configuration.
+3. Feature 2 Homepage.
